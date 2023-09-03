@@ -1,4 +1,4 @@
-﻿Console.Write("Введите первое число: ");
+﻿Console.Write("Введите число: ");
 int numOddOrEven = Convert.ToInt32(Console.ReadLine());
 if  (numOddOrEven % 2 == 0)
 {
