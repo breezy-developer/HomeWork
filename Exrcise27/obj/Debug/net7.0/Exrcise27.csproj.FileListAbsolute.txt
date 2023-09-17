@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWork\Exrcise27\bin\Debug\net7.0\Exrcise27.exe
+C:\Users\user\Desktop\HomeWork\Exrcise27\bin\Debug\net7.0\Exrcise27.deps.json
+C:\Users\user\Desktop\HomeWork\Exrcise27\bin\Debug\net7.0\Exrcise27.runtimeconfig.json
+C:\Users\user\Desktop\HomeWork\Exrcise27\bin\Debug\net7.0\Exrcise27.dll
+C:\Users\user\Desktop\HomeWork\Exrcise27\bin\Debug\net7.0\Exrcise27.pdb
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.dll
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\refint\Exrcise27.dll
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.pdb
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\Exrcise27.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWork\Exrcise27\obj\Debug\net7.0\ref\Exrcise27.dll
