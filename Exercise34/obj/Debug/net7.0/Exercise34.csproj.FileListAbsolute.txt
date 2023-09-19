@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeWork\Exercise34\bin\Debug\net7.0\Exercise34.exe
+C:\Users\user\Desktop\HomeWork\Exercise34\bin\Debug\net7.0\Exercise34.deps.json
+C:\Users\user\Desktop\HomeWork\Exercise34\bin\Debug\net7.0\Exercise34.runtimeconfig.json
+C:\Users\user\Desktop\HomeWork\Exercise34\bin\Debug\net7.0\Exercise34.dll
+C:\Users\user\Desktop\HomeWork\Exercise34\bin\Debug\net7.0\Exercise34.pdb
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.dll
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\refint\Exercise34.dll
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.pdb
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\Exercise34.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWork\Exercise34\obj\Debug\net7.0\ref\Exercise34.dll
