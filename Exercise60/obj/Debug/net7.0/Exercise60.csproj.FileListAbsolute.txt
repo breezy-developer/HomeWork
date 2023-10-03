@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeWork\Exercise60\bin\Debug\net7.0\Exercise60.exe
+C:\Users\user\Desktop\HomeWork\Exercise60\bin\Debug\net7.0\Exercise60.deps.json
+C:\Users\user\Desktop\HomeWork\Exercise60\bin\Debug\net7.0\Exercise60.runtimeconfig.json
+C:\Users\user\Desktop\HomeWork\Exercise60\bin\Debug\net7.0\Exercise60.dll
+C:\Users\user\Desktop\HomeWork\Exercise60\bin\Debug\net7.0\Exercise60.pdb
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.dll
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\refint\Exercise60.dll
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.pdb
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\Exercise60.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWork\Exercise60\obj\Debug\net7.0\ref\Exercise60.dll
